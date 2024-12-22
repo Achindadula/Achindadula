@@ -1,14 +1,21 @@
-# Hi there, I'm [Your Name] 👋 
+# Hi there, I'm [Achinda Dulsara] 👋 
 
 [![GitHub followers](https://img.shields.io/github/followers/yourusername?label=Follow&style=social)](https://github.com/yourusername)
 [![Twitter](https://img.shields.io/twitter/follow/yourusername?label=Follow&style=social)](https://twitter.com/yourusername)
 
 ## 💫 About Me
 
+```python# Hi there, I'm Achinda Dula 👋
+
+[![GitHub followers](https://img.shields.io/github/followers/achindadula?label=Follow&style=social)](https://github.com/achindadula)
+[![Twitter](https://img.shields.io/twitter/follow/achindadula?label=Follow&style=social)](https://twitter.com/achindadula)
+
+## 💫 About Me
+
 ```python
 class Developer:
     def __init__(self):
-        self.name = "Your Name"
+        self.name = "Achinda Dula"
         self.role = "Full Stack Developer"
         self.language_spoken = ["hi_IN", "en_US"]
         self.code = {
@@ -24,7 +31,7 @@ class Developer:
 
 me = Developer()
 me.say_hi()
-```
+
 
 ## 📊 My GitHub Stats
 

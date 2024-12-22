@@ -56,11 +56,10 @@ me.say_hi()
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
 ## 🌱 Current Focus
-
-- 📚 Pursuing Computer Systems and Network Engineering
-- 🔭 Working on Web Development Projects
-- 🌱 Learning Advanced System Architecture
-- 👯 Looking to collaborate on Open Source Projects
+📚 Pursuing Computer Systems and Network Engineering
+🔭 Working on Web Development Projects
+🌱 Learning Advanced System Architecture
+👯 Looking to collaborate on Open Source Projects
 
 ## 📫 Connect With Me
 
